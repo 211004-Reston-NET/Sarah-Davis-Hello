@@ -6,7 +6,7 @@ namespace _211004_Reston_NET
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Testing");
         }
     }
 }
